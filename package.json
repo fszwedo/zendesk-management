@@ -16,5 +16,8 @@
     "url": "https://github.com/fszwedo/zendesk-management/issues"
   },
   "homepage": "https://github.com/fszwedo/zendesk-management#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
 }
