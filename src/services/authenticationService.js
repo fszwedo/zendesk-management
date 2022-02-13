@@ -18,5 +18,4 @@ const makeZendeskRequest = async (path, method, payload) => {
     return res.data;
 }
 
-
 export default makeZendeskRequest;
