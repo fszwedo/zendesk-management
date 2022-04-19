@@ -4,7 +4,6 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 const app2 = async () => {
 
-
     let agentLastName = '';
 
     while (1 == 1) {
@@ -13,7 +12,5 @@ const app2 = async () => {
         console.log(agentLastName);
         await sleep(1000);
     }
-
 }
-
 app2();
