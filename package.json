@@ -18,8 +18,8 @@
   "homepage": "https://github.com/fszwedo/zendesk-management#readme",
   "type": "module",
   "dependencies": {
-    "axios": "^0.24.0",
-    "dotenv": "^10.0.0",
-    "csv-parser": "^3.0.0"
+    "axios": "^0.25.0",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.0"
   }
 }
